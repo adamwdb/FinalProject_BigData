@@ -33,8 +33,6 @@ src
 .idea/
 Read the Docs
 config.rst
-
 /.project
 /.pydevproject
-
 package-lock.json
